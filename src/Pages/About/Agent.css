@@ -1,0 +1,13 @@
+.agent-card {
+    border: 2px solid transparent; /* Initial border */
+    border-radius: 10px;
+    transition: border-color 0.3s ease, transform 0.3s ease; /* Animation for border and scale */
+    padding: 10px; /* Padding for the card content */
+  }
+  
+  .agent-card:hover {
+    border-color: blue; /* Change border color on hover */
+    transform: scale(1.05); /* Slightly scale up the card on hover */
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  

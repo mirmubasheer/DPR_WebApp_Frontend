@@ -1,0 +1,88 @@
+{
+  "homepage": "/",
+  "name": "dpr_web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.0",
+    "@mui/lab": "^6.0.0-beta.13",
+    "@mui/x-charts": "^7.22.1",
+    "@mui/x-date-pickers": "^7.22.0",
+    "@tanstack/react-query": "^5.51.23",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/lodash": "^4.17.7",
+    "@types/node": "^16.7.13",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.0.11",
+    "@types/react-icons": "^3.0.0",
+    "@types/react-map-gl": "^6.1.6",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/react-slick": "^0.23.13",
+    "@types/yup": "^0.32.0",
+    "axios": "^1.7.3",
+    "date-fns": "^4.1.0",
+    "dayjs": "^1.11.13",
+    "gsap": "^3.12.5",
+    "js-cookie": "^3.0.5",
+    "lodash": "^4.17.21",
+    "lodash.debounce": "^4.0.8",
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18.3.1",
+    "react-dropzone": "^14.2.10",
+    "react-hook-form": "^7.53.0",
+    "react-horizontal-scrolling-menu": "^8.0.2",
+    "react-icons": "^5.3.0",
+    "react-intersection-observer": "^9.13.0",
+    "react-map-gl": "^7.1.7",
+    "react-material-ui-carousel": "^3.4.2",
+    "react-modal-video": "^2.0.2",
+    "react-player": "^2.16.0",
+    "react-query": "^3.39.3",
+    "react-rellax": "^1.0.3",
+    "react-router-dom": "^6.26.0",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.30.2",
+    "react-spring": "^9.7.4",
+    "react-toastify": "^10.0.5",
+    "recharts": "^2.13.2",
+    "slick-carousel": "^1.8.1",
+    "typescript": "^4.4.2",
+    "vanilla-tilt": "^1.8.1",
+    "web-vitals": "^2.1.0",
+    "yup": "^1.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@types/js-cookie": "^3.0.6",
+    "@types/react-helmet": "^6.1.11"
+  }
+}
